@@ -1,4 +1,4 @@
-# Chat With Multiple PDFs:
+# Multi-PDF Query Bot:
 
 This project is a chatbot application that allows users to interact with multiple PDF documents using Streamlit, LangChain, and open-source LLMs via Groq. The chatbot extracts text from uploaded PDFs, converts the text into embeddings, and provides conversational responses based on the content of the PDFs. It also preserves memory, showing the entire chat history until the session is closed.
 
