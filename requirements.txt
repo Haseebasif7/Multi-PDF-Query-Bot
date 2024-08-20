@@ -1,9 +1,9 @@
 langchain
 langchain_community
 openai
-PyPDF2
 streamlit-extras
 faiss-cpu
 python-dotenv
 instructor-embeddings
 sentence-transformers==2.2.2
+pdfplumber
