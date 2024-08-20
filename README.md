@@ -63,7 +63,7 @@ The pdf-query.py script is responsible for the following tasks:
 
 streamlit: For building the web application interface.
 
-PyPDF2: For extracting text from PDF files.
+pdf plumber: For extracting text from PDF files.
 
 langchain: For processing and managing conversational models.
 
